@@ -1,0 +1,11 @@
+Customer,Date,OrderAmount,Items
+Microsoft,2025-11-01,120.5,"Pizza,Drink"
+Meta,2025-11-02,45.2,"Pizza,Drink"
+Google,2025-11-03,12.8,Salad
+Amazon,2025-11-03,210.0,"Pizza,Pizza,Drink"
+Apple,2025-11-04,18.9,Pizza
+Netflix,2025-11-04,72.3,"Pizza,Drink,Salad"
+OpenAI,2025-11-05,15.0,Drink
+Tesla,2025-11-05,135.75,"Pizza,Pizza"
+Nvidia,2025-11-06,25.5,Pizza
+Adobe,2025-11-06,99.99,"Pizza,Drink,Salad"

@@ -1,0 +1,10 @@
+[
+  {"instruction": "How much does a large pizza cost?", "response": "A large pizza costs $15."},
+  {"instruction": "What are your hours?", "response": "We are open 10am to 10pm."},
+  {"instruction": "", "response": "We serve pizza and drinks."},
+  {"instruction": "Do you deliver?", "response": ""},
+  {"instruction": "Can I order gluten-free pizza?", "response": "Yes, we offer gluten-free options."},
+  {"instruction": "What are your hours?", "response": "We are open 10am to 10pm."},
+  {"instruction": "Tell me a joke about pizza.", "response": "Why did the pizza maker go broke? He just kneaded dough!"},
+  {"instruction": "How much does a large pizza cost?", "response": null}
+]

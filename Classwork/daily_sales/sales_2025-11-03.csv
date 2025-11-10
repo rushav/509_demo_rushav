@@ -1,0 +1,11 @@
+OrderID,Customer,DateTime,Items,OrderAmount
+1,Google,2025-11-03 22:46:35,"Drink,Salad",63
+2,Amazon,2025-11-03 18:53:35,Pizza,9
+3,Google,2025-11-03 14:43:35,"Drink,Salad",54
+4,OpenAI,2025-11-03 10:17:35,"Dessert,Drink,Salad",27
+5,Netflix,2025-11-03 20:55:35,Drink,45
+6,OpenAI,2025-11-03 22:20:35,Drink,18
+7,Google,2025-11-03 22:56:35,"Dessert,Salad",24
+8,Microsoft,2025-11-03 13:40:35,Dessert,6
+9,Tesla,2025-11-03 20:26:35,"Drink,Pizza,Dessert",23
+10,OpenAI,2025-11-03 19:52:35,"Salad,Pizza",48
